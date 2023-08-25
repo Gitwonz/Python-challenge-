@@ -1,5 +1,5 @@
 # Python-challenge-
-Python Challenge. Utilize Pythin to analyze financial and election data
+Python Challenge. Utilize Python to analyze financial and election data
 
 
 PyBank Instructions
@@ -18,6 +18,10 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 
+
+
+
+"-------------------------------------------------------------------------------------------------------------------------------"
 
 
 PyPoll Instructions
